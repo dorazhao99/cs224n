@@ -1,6 +1,6 @@
 {
   "name": "CS 224N Course Logistics", 
   "description": "Public information and course details for CS 224N",
-  "privacy": "3", 
+  "privacy": "1", 
   "knowledge": "logistics.md"
 }
