@@ -1,4 +1,4 @@
-# Logistics
+# CS 224N Course Logistics
 Lectures: are on Tuesday/Thursday 4:30 PM - 5:50 PM Pacific Time in NVIDIA Auditorium. The lectures will also be livestreamed on Canvas via Panopto.
 
 Lecture videos for enrolled students: are posted on Canvas (requires login) shortly after each lecture ends. Unfortunately, it is not possible to make these videos viewable by non-enrolled students.
