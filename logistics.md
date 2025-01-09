@@ -1,4 +1,4 @@
-# CS 224N Course Logistics
+# CS 224N Course Logistics v2
 ## Details 
 |  Key | Value|
 | ------------- | ------------- |
