@@ -1,9 +1,5 @@
 # CS 224N Schedule 
 # Schedule
-  
-
-Schedule
---------
 
 Updated lecture **slides** will be posted here shortly before each lecture. Other links contain last year's slides, which are mostly similar.
 
